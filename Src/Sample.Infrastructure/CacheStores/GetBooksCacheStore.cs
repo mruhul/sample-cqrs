@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Lib.SimpleCqrs.Extended.Cache;
-using Sample.Core;
 using Sample.Core.Dtos;
 using Sample.Core.Extensions;
 using Sample.Core.Queries;
@@ -13,7 +9,7 @@ namespace Sample.Infrastructure.CacheStores
 {
     public class GetBooksCacheStore : IAsyncCacheStore<GetBooks,PagedResponse<BookListItem>>
     {
-        private string Key = "Books:GetBooks:{0}:{1}";
+        private const string Key = "Books:GetBooks:{0}:{1}";
         private readonly ICacheProvider _cacheProvider;
 
         public GetBooksCacheStore(ICacheProvider cacheProvider)

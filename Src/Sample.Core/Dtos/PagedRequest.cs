@@ -1,9 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Sample.Core.Dtos
+﻿namespace Sample.Core.Dtos
 {
     public interface IPagedRequest
     {

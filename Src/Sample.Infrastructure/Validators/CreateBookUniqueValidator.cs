@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Lib.Validation;
 using Lib.Validation.Extensions;
 using Sample.Core.Commands;

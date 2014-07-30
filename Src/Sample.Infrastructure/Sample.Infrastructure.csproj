@@ -64,6 +64,7 @@
     <Compile Include="BootstrapperTasks\AutomapperBootstrapperTask.cs" />
     <Compile Include="CacheStores\CacheProvider.cs" />
     <Compile Include="CacheStores\CacheProviderExtensions.cs" />
+    <Compile Include="CacheStores\DefaultCacheProvider.cs" />
     <Compile Include="CacheStores\GetBooksCacheStore.cs" />
     <Compile Include="CommandHandlers\CreateBookHandler.cs" />
     <Compile Include="EventHandlers\SendEmailOnBookCreated.cs" />

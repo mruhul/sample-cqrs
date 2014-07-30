@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Lib.SimpleCqrs;
+﻿using Lib.SimpleCqrs;
 using Sample.Core.Events;
 using Sample.Core.Logger;
 

@@ -1,7 +1,4 @@
-﻿using System.Text;
-using System.Threading.Tasks;
-
-namespace Sample.Core.Extensions
+﻿namespace Sample.Core.Extensions
 {
     public static class StringExtensions
     {

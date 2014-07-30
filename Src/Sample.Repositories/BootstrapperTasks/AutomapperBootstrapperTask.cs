@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Sample.Core.BootstrapperTasks;
+﻿using Sample.Core.BootstrapperTasks;
 using Sample.Core.DomainModels;
 using Sample.Core.Dtos;
 

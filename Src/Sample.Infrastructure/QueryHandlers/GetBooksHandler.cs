@@ -1,6 +1,5 @@
 ﻿using System.Threading.Tasks;
 using Lib.SimpleCqrs;
-using Sample.Core;
 using Sample.Core.DomainModels;
 using Sample.Core.Dtos;
 using Sample.Core.Mappers;
