@@ -1,0 +1,13 @@
+C:\Work\DotNet\Postman\Sample.Core\bin\Debug\Sample.Core.dll
+C:\Work\DotNet\Postman\Sample.Core\bin\Debug\Sample.Core.pdb
+C:\Work\DotNet\Postman\Sample.Core\obj\Debug\Sample.Core.dll
+C:\Work\DotNet\Postman\Sample.Core\obj\Debug\Sample.Core.pdb
+C:\Work\DotNet\Postman\Sample.Core\bin\Debug\Lib.SimpleCqrs.dll
+C:\Work\DotNet\Postman\Sample.Core\bin\Debug\Lib.SimpleCqrs.pdb
+C:\Work\DotNet\Postman\Sample.Core\obj\Debug\Sample.Core.csprojResolveAssemblyReference.cache
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\obj\Debug\Sample.Core.dll
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\obj\Debug\Sample.Core.pdb
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\bin\Debug\Sample.Core.dll
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\bin\Debug\Sample.Core.pdb
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\bin\Debug\Lib.SimpleCqrs.dll
+C:\Work\DotNet\Sample-Cqrs\Src\Sample.Core\bin\Debug\Lib.SimpleCqrs.pdb
